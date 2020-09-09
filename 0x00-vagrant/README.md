@@ -1,0 +1,1 @@
+This directory serves as the house for Task 1 of 0x00-vagrant, showing proper use of the uname command.
