@@ -1,0 +1,1 @@
+This directory stores the files for project 0x01 which shows an understanding of emac commands
