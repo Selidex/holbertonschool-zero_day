@@ -1,0 +1,1 @@
+This directory contains the files for Project 0x02-vi, meant to show understanding of vi/vim editors.
