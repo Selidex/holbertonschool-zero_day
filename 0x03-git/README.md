@@ -1,0 +1,1 @@
+This directory is for project 0x03, showing an understainding of git and some coding
